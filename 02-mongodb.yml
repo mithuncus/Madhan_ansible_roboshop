@@ -1,4 +1,4 @@
-- name: MongoDB
+- name: mongoDB
   hosts: mongodb
   become: yes
   tasks: 
